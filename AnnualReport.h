@@ -13,4 +13,5 @@ private:  	IncomeList* ptrInc;  //записи заработка
 public:  AnnualReport(IncomeList*, ExpenseList*);
 		 void display();  //вывод годового отчёта
 };
+
 #endif
